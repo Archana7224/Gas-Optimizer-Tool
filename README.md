@@ -22,4 +22,6 @@ To create a comprehensive gas optimization ecosystem that empowers users to mini
 - Integration with popular DeFi protocols for automated optimization
 
 ## Contract Details
-*To be filled manually*
+contract address : 0x42d372688f3fd1c3d93ae8342ba555bdd0dde194
+transaction hash : 0x3565999b14c332e36ec851927554af3b1ab94c8334f5b8d4e48d73c7cf458831
+
